@@ -1,6 +1,6 @@
 # LinkedIn-Web-Scaping
-Language - Python
-Framework - Selenium
+Language - Python ,
+Framework - Selenium ,
 BeautifulSoup is used for parsing html and xml documents.(For python)
 Webdriver used is firefox.
 xlsxwirter is used for accessing and writing in excel file.
